@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Albert Villanova del Moral.
+
+I'm an ML engineer, data scientist, physicist, computer scientist,...
+
+- 🔭 I’m currently working on [🤗 Hugging Face Datasets](https://github.com/huggingface/datasets) and [:cherry_blossom: BigScience Data Tooling](https://github.com/bigscience-workshop/data_tooling).
+- 📫 How to reach me:
+
+    [![Twitter Follow: @avillanovamoral](https://img.shields.io/twitter/follow/avillanovamoral?style=social)](https://twitter.com/avillanovamoral)
+    
+- 😄 Pronouns: he/him
 
 <!--
 **albertvillanova/albertvillanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile views](https://gpvc.arturio.dev/albertvillanova)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertvillanova&count_private=true&show_icons=true&theme=nightowl)
