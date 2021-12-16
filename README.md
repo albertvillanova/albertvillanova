@@ -1,3 +1,7 @@
+![GitHub followers](https://img.shields.io/github/followers/albertvillanova?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/albertvillanova?style=social)
+![Profile views](https://gpvc.arturio.dev/albertvillanova)
+
 ### Hi there 👋, I'm Albert Villanova del Moral.
 
 I'm an ML engineer, data scientist, physicist, computer scientist,...
@@ -23,7 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Profile views](https://gpvc.arturio.dev/albertvillanova)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertvillanova&count_private=true&show_icons=true&theme=nightowl)
