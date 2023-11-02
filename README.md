@@ -1,6 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/albertvillanova?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/albertvillanova?style=social)
-![Profile views](https://gpvc.arturio.dev/albertvillanova)
+<!-- ![Profile views](https://gpvc.arturio.dev/albertvillanova) -->
 
 ### Hi there 👋, I'm Albert Villanova del Moral.
 
