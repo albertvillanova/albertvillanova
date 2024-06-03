@@ -6,7 +6,7 @@
 
 I'm an ML engineer, data scientist, physicist, computer scientist,...
 
-- 🔭 I'm currently working on [🤗 Hugging Face Datasets](https://github.com/huggingface/datasets) and [🤗 Hugging Face Datasets Server](https://github.com/huggingface/datasets-server)
+- 🔭 I'm currently working on [🤗 Hugging Face Datasets](https://github.com/huggingface/datasets) and [🤗 Hugging Face Dataset Viewer](https://github.com/huggingface/dataset-viewer)
   - Previous projects: [:cherry_blossom: BigScience Data Tooling](https://github.com/bigscience-workshop/data_tooling)
 - 📫 How to reach me:
 
